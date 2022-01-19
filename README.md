@@ -72,12 +72,6 @@
 
 
 
-## Git repository link
-
-* https://git.cs.dal.ca/subbaraya/csci-5410-group07
-
-
-
 ## Deployed Application link
 
 * https://frontend-obfzx44t6a-uc.a.run.app/
